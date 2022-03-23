@@ -22,7 +22,7 @@ npm test
 Install the dependencies and devDependencies and starting the frontend t.
 
 ```sh
-cd frontend/my-app
+cd frontend
 npm i
 npm start
 ```
@@ -30,7 +30,7 @@ npm start
 For Test running and converage.
 
 ```sh
-cd frontend/my-app
+cd frontend
 npm test
 ```
 
