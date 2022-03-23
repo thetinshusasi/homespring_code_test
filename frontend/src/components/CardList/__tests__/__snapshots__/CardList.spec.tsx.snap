@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardList Component >> renders component 1`] = `
+<div>
+  <ul
+    class="MuiList-root makeStyles-root-1 MuiList-padding"
+  >
+    <span>
+      <li
+        class="MuiListItem-root makeStyles-listItem-5 MuiListItem-gutters"
+      >
+        <div
+          class="makeStyles-avatarContainer-3"
+        >
+          <div
+            class="MuiAvatar-root MuiAvatar-square makeStyles-large-4"
+          >
+            <img
+              class="MuiAvatar-img"
+              src="smallImage"
+            />
+          </div>
+          <div>
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom"
+            >
+              a1
+            </h6>
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom"
+            >
+              c1
+            </h6>
+          </div>
+        </div>
+        <div
+          class="makeStyles-listBody-6"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            title
+          </h6>
+          <span
+            aria-label="5 Stars"
+            class="MuiRating-root MuiRating-sizeLarge MuiRating-readOnly"
+            role="img"
+          >
+            <span>
+              <span
+                class="MuiRating-icon MuiRating-iconFilled"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span>
+              <span
+                class="MuiRating-icon MuiRating-iconFilled"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span>
+              <span
+                class="MuiRating-icon MuiRating-iconFilled"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span>
+              <span
+                class="MuiRating-icon MuiRating-iconFilled"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span>
+              <span
+                class="MuiRating-icon MuiRating-iconFilled"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                  />
+                </svg>
+              </span>
+            </span>
+          </span>
+          <h6
+            class="MuiTypography-root makeStyles-subtitle-9 MuiTypography-subtitle2 MuiTypography-gutterBottom"
+          >
+            <span>
+              #10
+            </span>
+            <span>
+              2020 
+            </span>
+            <span>
+              publisher
+            </span>
+                           
+          </h6>
+          <h6
+            class="MuiTypography-root makeStyles-maxLines-8 MuiTypography-subtitle1 MuiTypography-gutterBottom"
+          >
+            desc
+          </h6>
+        </div>
+      </li>
+      <li
+        class="MuiDivider-root MuiDivider-inset"
+        role="separator"
+      />
+    </span>
+  </ul>
+</div>
+`;
